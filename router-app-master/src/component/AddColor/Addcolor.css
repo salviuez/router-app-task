@@ -1,0 +1,5 @@
+.color-tool{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
